@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leoyen1.github.io/gazeq-q-series-devkit/sitemap.xml
