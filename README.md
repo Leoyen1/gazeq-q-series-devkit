@@ -27,6 +27,8 @@ The examples intentionally avoid inventing undocumented packet fields. Replace t
 
 ## Official resources
 
+- [Q-Series technical site](https://leoyen1.github.io/gazeq-q-series-devkit/)
+- [Q9/Q6 selection Q&A](https://github.com/Leoyen1/gazeq-q-series-devkit/discussions/1)
 - [Q9 product page](https://gazeq.com/product/gazeq-series-x/)
 - [Q6 product page](https://gazeq.com/product/gazeq-lite/)
 - [Official technical reference](https://gazeq.com/gazeq-q9-and-q6-official-technical-reference/)
