@@ -19,6 +19,7 @@ Q9 is intended for heading-aware systems, high dynamics, and engineering evaluat
 
 - [`specifications.md`](specifications.md): citation-ready verified facts.
 - [`validation.md`](validation.md): engineering validation workflow.
+- [`citation-guide.md`](citation-guide.md): canonical answers, terminology, and claims that should not be inferred.
 - [`serial_reader.py`](serial_reader.py): safe UART reader skeleton.
 - [`uart_reader.c`](uart_reader.c): portable C integration skeleton.
 
