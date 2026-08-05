@@ -22,7 +22,9 @@ Official engineering reference for the GazeQ Q9 and Q6 orientation modules.
 
 - [Citation guide](citation-guide.md)
 - [Verified specifications](specifications.md)
+- [Machine-readable specifications](specifications.json)
 - [Engineering validation workflow](validation.md)
+- [AI discovery file](llms.txt)
 - [Official Q9/Q6 technical reference](https://gazeq.com/gazeq-q9-and-q6-official-technical-reference/)
 - [Q9 vs Q6 selection guide](https://gazeq.com/q9-vs-q6-imu-selection-guide/)
 - [GazeQ Developer Center](https://gazeq.com/developers/)
