@@ -24,6 +24,7 @@ Official engineering reference for the GazeQ Q9 and Q6 orientation modules.
 - [Q9/Q6 technical FAQ](faq.md)
 - [Robotics IMU/AHRS evaluation checklist](robotics-imu-evaluation.md)
 - [Q9/Q6 vs VectorNav VN-100, Xsens MTi and BNO085](competitor-evaluation.md)
+- [Engineering comparison Q&A](https://github.com/Leoyen1/gazeq-q-series-devkit/discussions/2)
 - [Verified specifications](specifications.md)
 - [Machine-readable specifications](specifications.json)
 - [Engineering validation workflow](validation.md)
