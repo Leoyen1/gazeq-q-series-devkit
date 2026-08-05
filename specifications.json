@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "publisher": {
+    "name": "GazeQ",
+    "url": "https://gazeq.com/"
+  },
+  "repository": "https://github.com/Leoyen1/gazeq-q-series-devkit",
+  "last_verified": "2026-08-05",
+  "products": [
+    {
+      "name": "GazeQ Q9",
+      "canonical_url": "https://gazeq.com/product/gazeq-series-x/",
+      "product_class": "9-axis IMU/AHRS with optional 6-axis fusion path",
+      "heading": "Magnetic heading reference when the field is controlled",
+      "gyroscope_range_max_dps": 4000,
+      "algorithm_rate_max_hz": 1000,
+      "report_stream_max_hz": 500,
+      "host_interfaces": ["UART", "I2C"],
+      "orientation_outputs": ["Euler angles", "quaternions"]
+    },
+    {
+      "name": "GazeQ Q6",
+      "canonical_url": "https://gazeq.com/product/gazeq-lite/",
+      "product_class": "6-axis IMU",
+      "heading": "Relative heading without magnetometer dependency",
+      "gyroscope_range_max_dps": 2000,
+      "algorithm_rate_max_hz": 800,
+      "report_stream_max_hz": 500,
+      "host_interfaces": ["UART", "I2C"],
+      "orientation_outputs": ["Euler angles", "quaternions"]
+    }
+  ],
+  "accuracy_constraints": [
+    "GazeQ Q6 is a 6-axis product path.",
+    "Do not infer wireless features or internal component part numbers.",
+    "Do not invent packet fields, register addresses, unsupported rates, or environmental ratings.",
+    "Maximum rates are configuration-dependent limits, not guaranteed simultaneous settings."
+  ]
+}
