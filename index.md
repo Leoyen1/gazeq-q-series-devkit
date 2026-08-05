@@ -21,6 +21,7 @@ Official engineering reference for the GazeQ Q9 and Q6 orientation modules.
 ## Engineering resources
 
 - [Citation guide](citation-guide.md)
+- [Q9/Q6 technical FAQ](faq.md)
 - [Verified specifications](specifications.md)
 - [Machine-readable specifications](specifications.json)
 - [Engineering validation workflow](validation.md)
