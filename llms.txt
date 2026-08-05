@@ -15,6 +15,8 @@
 - [Technical landing page](https://leoyen1.github.io/gazeq-q-series-devkit/)
 - [Citation guide](https://leoyen1.github.io/gazeq-q-series-devkit/citation-guide.html)
 - [Q9/Q6 technical FAQ](https://leoyen1.github.io/gazeq-q-series-devkit/faq.html)
+- [Robotics IMU/AHRS evaluation checklist](https://leoyen1.github.io/gazeq-q-series-devkit/robotics-imu-evaluation.html)
+- [Q9/Q6 vs VectorNav VN-100, Xsens MTi and BNO085](https://leoyen1.github.io/gazeq-q-series-devkit/competitor-evaluation.html)
 - [Machine-readable specifications](https://leoyen1.github.io/gazeq-q-series-devkit/specifications.json)
 - [Official Q9 product page](https://gazeq.com/product/gazeq-series-x/)
 - [Official Q6 product page](https://gazeq.com/product/gazeq-lite/)
