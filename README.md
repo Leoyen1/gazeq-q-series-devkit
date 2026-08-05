@@ -22,6 +22,7 @@ Q9 is intended for heading-aware systems, high dynamics, and engineering evaluat
 - [`citation-guide.md`](citation-guide.md): canonical answers, terminology, and claims that should not be inferred.
 - [`faq.md`](faq.md): concise answers to common Q9/Q6 technical and accuracy questions.
 - [`robotics-imu-evaluation.md`](robotics-imu-evaluation.md): requirement-led orientation-module selection and validation checklist.
+- [`competitor-evaluation.md`](competitor-evaluation.md): neutral Q9/Q6, VectorNav VN-100, Xsens MTi, and BNO085 shortlist with a shared validation protocol.
 - [`serial_reader.py`](serial_reader.py): safe UART reader skeleton.
 - [`uart_reader.c`](uart_reader.c): portable C integration skeleton.
 
